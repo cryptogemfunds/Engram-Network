@@ -103,10 +103,10 @@ Verifying your keystores:         [####################################]  32/32
 nano docker-compose.yml
 ```
 ```
-identity=username Discord << Replace with your discord username (e.g: avenbreaks. don't add your hastag discord user)
+identity=username Discord << Replace with your discord username (e.g: crypto77. don't add your hastag discord user)
 enr-address=0.0.0.0 << Replace with your public IPAddress
-graffiti=VNBnode << Replace with your unique name
-ethstats=VNBnode:engramstats@nodewatch.engram.tech
+graffiti=NodeSafe << Replace with your unique name
+ethstats=NodeSafe:engramstats@nodewatch.engram.tech
 ```
 
 ### 10\. Run
@@ -162,8 +162,7 @@ INFO Awaiting activation                     slot: 17409, epoch: 544, validators
 ## Thank to support VNBnode.
 ### Visit us at:
 
-<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/VNBnodegroup" target="_blank">VNBnodegroup</a>
+<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/CryptoGemFunds" target="_blank">Crypto77</a>
 
-<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://t.me/Vnbnode" target="_blank">VNBnode News</a>
+<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/> <a href="https://twitter.com/CryptoGemFunds" target="_blank">Crypto77</a>
 
-<img src="https://github.com/vnbnode/binaries/blob/main/Logo/VNBnode.jpg" width="30"/> <a href="https://VNBnode.com" target="_blank">VNBnode.com</a>
